@@ -1,0 +1,46 @@
+body {
+    font-family: 'arial';
+}
+
+h1 {
+    margin: 30px;
+    text-align: center;
+}
+
+
+
+div {
+    width: 350px;
+    height: 150px;
+    padding: 0 0 0 10px;
+    margin: 30px;
+    border: solid 2px;
+    float: left;
+    background-color: grey;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+    border: solid 2px;
+    float: right;
+    text-align: center;
+    width: 100px;
+}
+
+p {
+    padding: 10px 0;
+}
+
+#Chicken {
+    background-color: rgb(218, 108, 108);
+}
+
+#Beef {
+    background-color: rgb(175, 0, 0);
+}
+
+#Sushi {
+    background-color: rgb(233, 190, 0);
+
+}
